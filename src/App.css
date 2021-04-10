@@ -1,0 +1,116 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.papa{
+  background-color: bisque;
+  height: 250px;
+  width: 300px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border: none;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
+.mama{
+  background-color: black;
+  height: 100px;
+
+}
+ 
+.circle{
+  background-color: brown;
+height: 50px;
+width: 50px;
+border-radius: 1000px;
+position: relative;
+top: -25px;
+left: 30px;
+
+
+}
+
+.mouse {
+  height: 50px;
+  width: 50px;
+  border-radius: 1000px;
+  position: relative;
+  object-fit: cover;
+  top: -75px;
+  left: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* .MasterContainer{
+  background-color: wheat;
+  width: 250px;
+  height: 350px;
+  margin-left: 20px;
+  margin-top: 20px;
+  border: none;
+  border-top-left-radius: 0px;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 6px;
+  border-bottom-left-radius: 6px;
+}
+
+.topContainer{
+  background-color: red;
+  height:120px;
+}
+.circle{
+  background-color: yellow;
+  height: 50px;
+  width: 50px;
+  border: 4px solid black;
+  border-radius: 10000px;
+  position: relative;
+  top: 100px;
+  left: 100px;
+}
+
+.imageFile{
+  height: 50px;
+  width: 50px;
+  border-radius: 10000px;
+  object-fit: cover;
+}
+
+.bottomContainer{
+  background-color: green;
+  height: 230px;
+border-bottom-right-radius: 6px;
+border-bottom-left-radius: 6px;
+} */
